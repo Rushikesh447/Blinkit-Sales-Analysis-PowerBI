@@ -72,7 +72,7 @@ This view demonstrates how the dashboard changes when the item type filter is se
 
 Watch the complete dashboard demonstration to understand the dashboard layout, interactive filters, and data visualizations.
 
-**[▶ Watch Blinkit Dashboard Demo](YOUR_YOUTUBE_VIDEO_LINK)**
+**[▶ Watch Blinkit Dashboard Demo](Demo)**
 
 ## 📁 Project Structure
 
