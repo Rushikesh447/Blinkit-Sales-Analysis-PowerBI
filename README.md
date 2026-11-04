@@ -45,10 +45,6 @@ The dashboard highlights the following metrics:
 - **Outlet Establishment:** Visualizes sales trends based on outlet establishment year.
 - **Interactive Filters:** Allows users to filter data by outlet location type, outlet size, and item type.
 
-## 🖼️ Dashboard Screenshots
-
-### 1. Overall Dashboard
-
 ## 📸 Dashboard Screenshots
 
 ### 1. Overall Dashboard
