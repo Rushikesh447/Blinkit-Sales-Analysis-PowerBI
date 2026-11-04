@@ -49,22 +49,25 @@ The dashboard highlights the following metrics:
 
 ### 1. Overall Dashboard
 
+## 📸 Dashboard Screenshots
+
+### 1. Overall Dashboard
+
 The main dashboard provides an overview of sales KPIs, product categories, outlet performance, and sales distribution.
 
+[![Overall Dashboard](Screenshots/Dashboard%20Ovreview.jpeg)](Screenshots/Dashboard%20Ovreview.jpeg)
 
-![Overall Dashboard](Screenshots/Dashboard%20Ovreview.jpeg)
 ### 2. Medium Outlet Analysis – Frozen Foods
 
-Dashboard filtered by Medium outlet size and Frozen Foods category.
+This view shows sales performance after applying the Medium outlet size and Frozen Foods item type filters.
 
-![Medium Outlet Analysis](Screenshots/medium-outlet-analysis.png)
+[![Medium Outlet Analysis](Screenshots/medium-outlet-analysis.jpeg)](Screenshots/medium-outlet-analysis.jpeg)
 
 ### 3. Medium Outlet Analysis – Breads
 
-Dashboard filtered by Medium outlet size and Breads category.
+This view demonstrates how the dashboard changes when the item type filter is selected as Breads, allowing comparison of sales and outlet performance.
 
-![Bread Category Analysis](Screenshots/bread-category-analysis.png)
-
+[![Bread Category Analysis](Screenshots/bread-category-analysis.jpeg)](Screenshots/bread-category-analysis.jpeg)
 ## 🎥 Project Demonstration
 
 Watch the complete dashboard demonstration to understand the dashboard layout, interactive filters, and data visualizations.
