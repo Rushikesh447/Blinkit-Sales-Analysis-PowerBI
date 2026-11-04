@@ -107,5 +107,5 @@ Blinkit-Sales-Analysis-PowerBI/
 
 Aspiring Data Analyst
 
-- LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
-- GitHub: [GitHub Profile](YOUR_GITHUB_URL)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rushikesh-naik04/)
+- GitHub: [GitHub Profile]()
