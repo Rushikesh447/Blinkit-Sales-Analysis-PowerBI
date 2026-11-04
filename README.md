@@ -51,8 +51,8 @@ The dashboard highlights the following metrics:
 
 The main dashboard provides an overview of sales KPIs, product categories, outlet performance, and sales distribution.
 
-![Overall Dashboard](Screenshots/Dashboard Ovreview.jpeg)
 
+![Overall Dashboard](Screenshots/Dashboard%20Ovreview.jpeg)
 ### 2. Medium Outlet Analysis – Frozen Foods
 
 Dashboard filtered by Medium outlet size and Frozen Foods category.
