@@ -21,7 +21,7 @@ The dashboard provides an overview of important business metrics through interac
 - Power Query
 - DAX (Data Analysis Expressions)
 - Microsoft Excel
-- SQL (if used in the project)
+- SQL
 
 ## 📊 Key Performance Indicators (KPIs)
 
